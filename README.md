@@ -1,0 +1,2 @@
+# AngularSpringmvcMybatis
+AngularJS整合Springmvc、Spring、Mybatis环境搭建模板
